@@ -1,0 +1,35 @@
+body{
+    background-color: cadetblue;
+    box-sizing: border-box;
+}
+table{
+    height: 20px;
+    width: 300px;
+    text-align: center;
+    background-color: antiquewhite;
+  
+}
+table th{
+    font-size: larger;
+    font-weight: 200;
+    font-style: bold;   
+}
+.card{
+    
+        float: left;
+        width: 20%;
+        height: 200px;
+        padding: 10px;
+        margin-top: 10%;
+        margin-left: 40%;
+        margin-left: 40%;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        padding: 16px;
+        text-align: center;
+        background-color: rgb(181, 208, 250);
+        font-family: 'Times New Roman', Times, serif;
+
+}
+.cards{
+    margin-top: 20px;
+}
